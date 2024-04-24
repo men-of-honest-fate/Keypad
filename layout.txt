@@ -1,0 +1,12 @@
+pushButton_4:Ctrl + Alt + W
+pushButton_5:Не задано
+pushButton_7:Не задано
+pushButton_8:Не задано
+pushButton_9:Не задано
+pushButton_10:Не задано
+pushButton_11:Не задано
+pushButton_12:Не задано
+pushButton_13:Не задано
+pushButton_14:Не задано
+pushButton_15:Не задано
+pushButton_16:Не задано
